@@ -1,2 +1,5 @@
 server:
   port: 2024
+
+greeting: Hello from Service B
+message:

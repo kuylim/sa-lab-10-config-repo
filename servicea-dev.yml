@@ -1,2 +1,5 @@
 server:
   port: 2023
+
+greeting: Hello from Service A
+message:
